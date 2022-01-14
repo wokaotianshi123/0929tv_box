@@ -3369,6 +3369,7 @@
     "wasu",
     "bilibili"
   ],
+   "wallpaper": "https://picsum.photos/1280/720",
   "spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",
   "parses": [
  {
