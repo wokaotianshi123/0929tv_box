@@ -10,7 +10,7 @@
             "filterable": 1
         },
         {
-            "key": "csp_xpath_猫群专用工厂",
+            "key": "csp_xpath_专用工厂",
             "name": "影视工厂-资源皆来自网上搜集-请勿商用盈利",
             "type": 3,
             "api": "csp_XPath",
@@ -43,7 +43,7 @@
             "categories": []
         },
         {
-            "key": "csp_xpath_猫群自维护专用源shtv",
+            "key": "csp_xpath_自维护专用源shtv",
             "name": "骚火电影",
             "type": 3,
             "api": "csp_XPath",
@@ -53,7 +53,7 @@
             "ext": "https://cncncloud.com/api/v3/file/source/3064147/shdy.json?sign=YHhLfP44aWq8SFeI8-j8-hJA8W6_Mw2z2euirYeJ7E4%3D%3A0"
         },
         {
-            "key": "csp_xpath_猫群专用乐猪",
+            "key": "csp_xpath_专用乐猪",
             "name": "乐猪TV(XP)",
             "type": 3,
             "api": "csp_XPathMac",
@@ -63,7 +63,7 @@
             "ext": "https://cncncloud.com/api/v3/file/source/3064148/lztv.json?sign=hJkrIp_psjPbBl5_62UxBNPzDkkEsldJh6RigS1twKY%3D%3A0"
         },
         {
-            "key": "喵派蓝光(感谢github相关原创作者,猫群:743073078)",
+            "key": "喵派蓝光(感谢github相关原创作者,:743073078)",
             "name": "喵派蓝光&【喵派对】官方赞助",
             "type": 1,
             "searchable": 1,
@@ -103,7 +103,7 @@
             "ext": "https://cncncloud.com/api/v3/file/source/3064155/yhdm.json?sign=D7Ln4EnjZILBPy7fHx4p6LCFTBOBKDkdoCgwI3WYyZA%3D%3A0"
         },
         {
-            "key": "csp_猫群专用动漫bus",
+            "key": "csp_专用动漫bus",
             "name": "动漫巴士(XP)",
             "type": 3,
             "api": "csp_XPath",
@@ -163,7 +163,7 @@
         },
         {
             "key": "n0ys_spider",
-            "name": "90影视(猫群:743073078)",
+            "name": "90影视(:743073078)",
             "type": 3,
             "api": "csp_N0ys",
             "searchable": 1,
@@ -186,7 +186,7 @@
             "api": "csp_AppYs",
             "filterable": "1",
             "ext": "https://myaixixi.com/api.php/app/",
-            "key": "csp_猫群743073078贺岁1",
+            "key": "csp_743073078贺岁1",
             "type": "3",
             "name": "猫迷剧场【1】"
         },
@@ -196,12 +196,12 @@
             "api": "csp_AppYs",
             "filterable": "1",
             "ext": "https://www.bcwzg.com/api.php/app/",
-            "key": "csp_猫群743073078贺岁2",
+            "key": "csp_743073078贺岁2",
             "type": "3",
             "name": "猫迷剧场【2】"
         },
         {
-            "key": "csp_appys_猫群743073078贺岁3",
+            "key": "csp_appys_743073078贺岁3",
             "name": "猫迷剧场【3】",
             "type": 3,
             "api": "csp_AppYs",
@@ -211,7 +211,7 @@
             "ext": "http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"
         },
         {
-            "key": "csp_appys_猫群743073078贺岁88",
+            "key": "csp_appys_743073078贺岁88",
             "name": "猫迷剧场【4】",
             "type": 3,
             "api": "csp_AppYs",
@@ -221,7 +221,7 @@
             "ext": "https://l0l.tv/api.php/v1.vod"
         },
         {
-            "key": "csp_appys_猫群743073078贺岁5",
+            "key": "csp_appys_743073078贺岁5",
             "name": "猫迷剧场【5】",
             "type": 3,
             "api": "csp_AppYs",
@@ -231,7 +231,7 @@
             "ext": "https://www.u23c.com/api.php/app/"
         },
         {
-            "key": "csp_xpath_猫群743073078贺岁6",
+            "key": "csp_xpath_743073078贺岁6",
             "name": "猫迷剧场【6】",
             "type": 3,
             "api": "csp_XPath",
@@ -241,7 +241,7 @@
             "ext": "https://cncncloud.com/api/v3/file/source/3064146/348lg.json?sign=x2kNos0rYSh68lfRPqjfbB0xKpsVeI0IfPdKn8zAs-4%3D%3A0"
         },
         {
-            "key": "csp_appys_猫群743073078贺岁7",
+            "key": "csp_appys_743073078贺岁7",
             "name": "猫迷剧场【7】",
             "type": 3,
             "api": "csp_AppYs",
@@ -251,7 +251,7 @@
             "ext": "https://xays6677.com/mogai_api.php/v1.vod"
         },
         {
-            "key": "csp_appys_猫群743073078贺岁8",
+            "key": "csp_appys_743073078贺岁8",
             "name": "猫迷剧场【8】",
             "type": 3,
             "api": "csp_AppYs",
@@ -410,7 +410,7 @@
             "ext": "https://vip.ruifenglb.com:4433/api.php/app/"
         },
         {
-            "key": "csp_appys_猫群源kmys",
+            "key": "csp_appys_源kmys",
             "name": "可米资源(搜)",
             "type": 3,
             "api": "csp_AppYs",
@@ -420,7 +420,7 @@
             "ext": "http://sj.kmys.vip/ruifenglb_api.php/v1.vod"
         },
         {
-            "key": "csp_appys_猫群源mzys",
+            "key": "csp_appys_源mzys",
             "name": "木子影视(搜)",
             "type": 3,
             "api": "csp_AppYs",
@@ -430,7 +430,7 @@
             "ext": "http://www.muzidy.top/mogai_api.php/v1.vod"
         },
         {
-            "key": "csp_appys_猫群源pdeys",
+            "key": "csp_appys_源pdeys",
             "name": "片多儿影视(搜)",
             "type": 3,
             "api": "csp_AppYs",
@@ -874,7 +874,7 @@
             "ext": "https://cncncloud.com/api/v3/file/source/3064301/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%8E%82.json?sign=WIuCf5vgNesqx5D94KzZYYQL13263bVcBy8AYSDw3kU%3D%3A0"
         },
         {
-            "key": "csp_xpath_猫群专用奈洛",
+            "key": "csp_xpath_专用奈洛",
             "name": "奈洛影视(XP)",
             "type": 3,
             "api": "csp_XPath",
@@ -884,7 +884,7 @@
             "ext": "https://cncncloud.com/api/v3/file/source/3064345/nfmovie.json?sign=EOkZnyATnJG8ORnKkt8Ny8QssZ3eqCQ0296aOJuiCY4%3D%3A0"
         },
         {
-            "key": "csp_xpath_猫群专用美剧网",
+            "key": "csp_xpath_专用美剧网",
             "name": "美剧网(XP)",
             "type": 3,
             "api": "csp_XPath",
@@ -894,7 +894,7 @@
             "ext": "https://cncncloud.com/api/v3/file/source/3064404/meijuwang.json?sign=F_SmfbRVkKKQA0rC2m_r44lSxH6P6zwds-XnW6y-HBI%3D%3A0"
         },
         {
-            "key": "csp_xpath_猫群专用人人",
+            "key": "csp_xpath_专用人人",
             "name": "人人影视(XP)",
             "type": 3,
             "api": "csp_XPath",
@@ -914,7 +914,7 @@
             "ext": "https://cncncloud.com/api/v3/file/source/3064350/%E7%88%B1%E8%A5%BF%E8%A5%BF.json?sign=jx0R4IcfOlW8CvtgmsHPaZIfzk7Scp4Ciiud3X2rewY%3D%3A0"
         },
         {
-            "key": "csp_xpath_猫群专用99",
+            "key": "csp_xpath_专用99",
             "name": "99影视(XP)",
             "type": 3,
             "api": "csp_XPath",
@@ -985,7 +985,7 @@
         },
         {
             "key": "csp_appys_v1_80K影视",
-            "name": "80K影视(猫群:743073078)",
+            "name": "80K影视(:743073078)",
             "type": 3,
             "api": "csp_AppYs",
             "searchable": 1,
@@ -1005,7 +1005,7 @@
         },
         {
             "key": "csp_appys_玺心影视",
-            "name": "玺心影视(猫群:743073078)",
+            "name": "玺心影视(:743073078)",
             "type": 3,
             "api": "csp_AppYs",
             "searchable": 1,
@@ -1139,7 +1139,7 @@
             "group": "NBA直播",
             "channels": [
                 {
-                    "name": "猫群内部交流",
+                    "name": "内部交流",
                     "urls": [
                         "http://v18.toutiaovod.com/39a7fd5303f3a62fcfaa6d2512f46db3/62024c15/video/tos/cn/tos-cn-ve-4-alinc2/edee8ae768f047a7a547f8428f0b6d75/"
                     ]
@@ -5983,52 +5983,52 @@
             "url": "Parallel"
         },
         {
-            "name": "猫群专用1",
+            "name": "专用1",
             "type": 1,
             "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1095368&key=cdgjpsuDFLNRTUVY03&url="
         },
         {
-            "name": "猫群专用2",
+            "name": "专用2",
             "type": 0,
             "url": "https://jx.parwix.com:4433/player/analysis.php?v="
         },
         {
-            "name": "猫群专用3",
+            "name": "专用3",
             "type": 1,
             "url": "https://json.hfyrw.com/mao.go?url="
         },
         {
-            "name": "猫群专用4",
+            "name": "专用4",
             "type": 0,
             "url": "https://jx.parwix.com:4433/player/?url="
         },
         {
-            "name": "猫群专用5",
+            "name": "专用5",
             "type": 1,
             "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1285201&key=bcikqtwxyADEGKUX36&url="
         },
         {
-            "name": "猫群专用6",
+            "name": "专用6",
             "type": 1,
             "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1494542&key=ijmqvwxABEHILMOT48&url="
         },
         {
-            "name": "猫群专用7",
+            "name": "专用7",
             "type": 1,
             "url": " https://json.pangujiexi.com:12345/json.php?url="
         },
         {
-            "name": "猫群专用8",
+            "name": "专用8",
             "type": 1,
             "url": " http://jx.kuanjv.com/mp4/5.1?url="
         },
         {
-            "name": "猫群专用9",
+            "name": "专用9",
             "type": 1,
             "url": "https://fast.rongxingvr.cn:8866/api/?key=XJA4xMsBTFcprNplVX&url="
         },
         {
-            "name": "猫群专用10",
+            "name": "专用10",
             "type": 1,
             "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
         }
