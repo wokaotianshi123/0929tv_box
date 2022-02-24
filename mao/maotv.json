@@ -1,13 +1,5 @@
 {
 "sites":[{"key":"csp_Buka","name":"默认主页-内部学习交流-请勿传播-20220217版本A","type":3,"api":"csp_Buka","searchable":0,"quickSearch":0,"filterable":1},{"key":"csp_xpath_猫群专用工厂","name":"影视工厂-资源皆来自网上搜集-请勿商用盈利","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://cncncloud.com/api/v3/file/source/3064301/ysgc.json?sign=rOLxUlH1hroPp-1tqLAQxkw_B-EORt_B9K61gSNQK6o%3D%3A0"},{"key":"csp_xpath_猫群自维护专用源shtv","name":"骚火电影","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://cncncloud.com/api/v3/file/source/3064147/shdy.json?sign=YHhLfP44aWq8SFeI8-j8-hJA8W6_Mw2z2euirYeJ7E4%3D%3A0"},
-ame": "骚火电影",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://cncncloud.com/api/v3/file/source/3064147/shdy.json?sign=YHhLfP44aWq8SFeI8-j8-hJA8W6_Mw2z2euirYeJ7E4%3D%3A0"
-    },
 	{
             "key": "芒果（限成年人）",
             "name": "芒果（限成年人）",
