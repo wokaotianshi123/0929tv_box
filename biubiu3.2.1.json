@@ -573,7 +573,7 @@
             "year": "全部$&lang=&year=#2022$&lang=&year=2022#2021$&lang=&year=2021#2020$&lang=&year=2020#2019$&lang=&year=2019#2018$&lang=&year=2018#2017$&lang=&year=2017#2016-2011$&lang=&year=2016#2010-2000$&lang=&year=2010#90年代$&lang=&year=90#80年代$&lang=&year=80#更早$&lang=&year=70"
         }
     },
-    "zidingyi": 
+    "zidingyi": [
         {
             "name": "乐猪影视",
             "url": "http://www.lezhutv.com",
@@ -632,7 +632,8 @@
             "bfbiaotihou": "</a>",
             "bflianjieqian": "href=\"",
             "bflianjiehou": "\""
-        },{"name": "自定义LIBVIO接口",
+        },
+        {"name": "自定义LIBVIO接口",
 "tihuan": "cnzz.com",
 "url": "https://www.libvio.com",
 "fenlei": "电视剧$/show/2--------#电影$/show/1--------#综艺$/show/3--------#动漫$/show/4--------#动作片$/show/1---动作-----#喜剧片$/show/1---喜剧-----#爱情片$/show/1---爱情-----#科幻片$/show/1---科幻-----#奇幻片$/show/1---奇幻-----#恐怖片$/show/1---恐怖-----#剧情片$/show/1---剧情-----#战争片$/show/1---战争-----#冒险片$/show/1---冒险-----#国产剧$/show/2-中国大陆-------#台剧$/show/2-中国台湾-------#港剧$/show/2-中国香港-------#韩剧$/show/2-韩国-------#日剧$/show/2-日本-------#美剧$/show/2-美国-------#英剧$/show/2-英国-------",
@@ -688,4 +689,5 @@
 "bfbiaotihou": "<",
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""}
+]
 }
