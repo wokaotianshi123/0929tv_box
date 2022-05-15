@@ -1,0 +1,50 @@
+[
+    {
+        "名称": "CQ影视",
+        "搜索链接": "http://api.kunyu77.com/api.php/provide/",
+        "搜索UA": "User-Agent#Dalvik/2.1.0 (Linux; U; Android 10; VOG-AL00 Build/HUAWEIVOG-AL00)",
+        "播放UA": ""
+    },
+    {
+        "名称": "紫米影视",
+        "搜索链接": "https://nmba.vip/lvdou_api.php/v1.vod",
+        "搜索UA": "",
+        "播放UA": ""
+    },
+    {
+        "名称": "天空影视",
+        "搜索链接": "https://www.tkys.tv/xgapp.php/v1/",
+        "搜索UA": "",
+        "播放UA": ""
+    },
+    {
+        "名称": "苍蓝影视",
+        "搜索链接": "https://vip.ruifenglb.com:4433/api.php/app/",
+        "搜索UA": "",
+        "播放UA": ""
+    },
+    {
+        "名称": "DC琅影视",
+        "搜索链接": "http://chaorenbb.com/api.php/v1.vod",
+        "搜索UA": "",
+        "播放UA": ""
+    },
+    {
+        "名称": "白白影视",
+        "搜索链接": "http://luobu.yss6080.com/mogai_api.php/v1.vod",
+        "搜索UA": "",
+        "播放UA": ""
+    },
+    {
+        "名称": "QF专线",
+        "搜索链接": "http://mkk.gotka.top/api.php/v1.vod",
+        "搜索UA": "User-Agent#Dalvik/2.1.0 (Linux; U; Android 10; VOG-AL00 Build/HUAWEIVOG-AL00)",
+        "播放UA": ""
+    },
+    {
+        "名称": "饭团影视",
+        "搜索链接": "http://television.wkfile.com/api.php/provide/vod/",
+        "搜索UA": "User-Agent#Dart/2.14 (dart:io)",
+        "播放UA": "User-Agent#Dart/2.14 (dart:io)&&&origin#https://ptwo.wkfile.com"
+    }
+]
