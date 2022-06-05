@@ -875,6 +875,11 @@
 }
 ],
   "parses":[
+    {
+"name": "点此解析",
+"type": 2,
+"url": "Parallel"
+},
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
