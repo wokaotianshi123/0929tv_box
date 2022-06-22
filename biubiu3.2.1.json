@@ -1,5 +1,26 @@
 {
     "zhuyejiekou": [
+        
+        {
+            "name": "独播社",
+            "url": "http://35ys.cc/api.php/v1.vod"
+        },
+        {
+            "name": "叮当影视",
+            "url": "https://tv.0573wl.com/api.php/v1.vod"
+        },
+        {
+            "name": "段友影视",
+            "url": "http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"
+        },
+        {
+            "name": "段友影视",
+            "url": "https://shangjihuoke.com/api.php/tv.vod"
+        },
+        {
+            "name": "飞捷影视",
+            "url": "https://www.fj6080.com/api.php/v1.vod"
+        },
         {
             "name": "DC影视",
             "url": "http://chaorenbb.com/api.php/v1.vod"
@@ -27,26 +48,6 @@
         {
             "name": "初心影视",
             "url": "https://www.18mv.club/api.php/v1.vod"
-        },
-        {
-            "name": "独播社",
-            "url": "http://35ys.cc/api.php/v1.vod"
-        },
-        {
-            "name": "叮当影视",
-            "url": "https://tv.0573wl.com/api.php/v1.vod"
-        },
-        {
-            "name": "段友影视",
-            "url": "http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"
-        },
-        {
-            "name": "段友影视",
-            "url": "https://shangjihuoke.com/api.php/tv.vod"
-        },
-        {
-            "name": "飞捷影视",
-            "url": "https://www.fj6080.com/api.php/v1.vod"
         },
         {
             "name": "粉象视界",
