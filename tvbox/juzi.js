@@ -36,7 +36,7 @@
 "bfshifouercijiequ": "0",
 "bfjiequqian": "空",
 "bfjiequhou": "空",
-"bfjiequshuzuqian": "class=\"stui-content__playlist",
+"bfjiequshuzuqian": "class=\"stui-content__playlis clearfix",
 "bfjiequshuzuhou": "</ul>",
 "zhuangtaiqian": "更新：</span>",
 "zhuangtaihou": "</p>",
