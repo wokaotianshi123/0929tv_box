@@ -10,7 +10,7 @@
   "houzhui": "---.html", //网站翻页链接的后缀
 
   "shifouercijiequ": "1", //截取的列表数组是否需要二次截取，0不需要，1需要
-  "jiequqian": "class=\"hl-vod-list clearfix", //不需要二次截取就填空
+  "jiequqian": "class=\"hl-vod-list", //不需要二次截取就填空
   "jiequhou": "</ul>", //不需要二次截取就填空
   "jiequshuzuqian": "class=\"hl-item-thumb", //截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
   "jiequshuzuhou": "</a>", //截取的列表数组的后关键词,截取的关键词有 " 的用 \ 进行转义
