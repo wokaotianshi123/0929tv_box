@@ -1,6 +1,7 @@
 {"name": "橘子tv",
 "url": "https://juztv.com",
 "tihuan": "cnzz.com",
+"shouye": "1",
 "User": "User-Agent:Dart/2.14 (dart:io)",
 "fenlei": "电视剧$/vodtype/2-#电影$/vodtype/1-#动作片$/vodtype/6-#喜剧片$/vodtype/7-#爱情片$/vodtype/8-#科幻片$/vodtype/9-#恐怖片$/vodtype/10-#剧情片$/vodtype/11-#战争片$/vodtype/12-#其他片$/vodtype/20-#综艺$/vodtype/3-#动漫$/vodtype/4-#国产剧$/vodtype/13-#港台剧$/vodtype/14-#日韩剧$/vodtype/15-#欧美剧$/vodtype/16-#其他剧$/vodtype/21-",
 "houzhui": "/",
