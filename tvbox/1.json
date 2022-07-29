@@ -13,10 +13,7 @@
 //云星旗下话费充值折扣公众号：【云优惠生活】
 //详情查看文章介绍：https://mp.weixin.qq.com/s/Bbm6mQtu_DjNJPXcXW0VOA
 {
-"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/0730.jar",
-
-
-
+"spider":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/0730.jar"
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
 "wallpaper":"http://css.lc/api.php",
 
