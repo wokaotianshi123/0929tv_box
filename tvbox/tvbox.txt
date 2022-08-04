@@ -54,7 +54,7 @@
 "bfyjiequhou": "空",
 "bfyjiequshuzuqian": "class=\"col-xs-4",
 "bfyjiequshuzuhou": "</li>",
-"bfbiaotiqian": ">",
+"bfbiaotiqian": "<a",
 "bfbiaotihou": "</a>",
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""}
