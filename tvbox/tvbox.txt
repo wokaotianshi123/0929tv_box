@@ -55,6 +55,6 @@
 "bfyjiequshuzuqian": "class=\"col-xs-",
 "bfyjiequshuzuhou": "</li>",
 "bfbiaotiqian": "class=\"btn btn-default btn-block btn-sm\">",
-"bfbiaotihou": "</ a>",
+"bfbiaotihou": "</a>",
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""}
