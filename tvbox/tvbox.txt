@@ -1,4 +1,4 @@
-{"name": "tv-box1",
+{"name": "tv-box",
 "url": "http://m1.tv9box.com",
 "tihuan": "cnzz.com",
 "User": "User-Agent:Dart/2.14 (dart:io)",
