@@ -1,6 +1,6 @@
 { "name": "98播播网",
   "url": "https://98bbw.com",
-  //"User": "User-Agent:Dart/2.14 (dart:io)",
+  "User": "User-Agent:Dart/2.14 (dart:io)",
   "fenlei": "电影$/vod/show/id/1/page/#国产剧$/vod/show/id/2/#韩剧$/vod/show/id/3/#美剧$/vod/show/id/4/page/#日剧$/vod/show/id/5/page/#国漫$/vod/show/id/26/page/#日漫$/vod/show/id/25/page/#综艺$/vod/show/id/22/page/",
   "houzhui": ".html",
   "shouye": "1",
