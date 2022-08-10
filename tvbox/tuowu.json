@@ -12,9 +12,7 @@
         "剧集": "2",
         "综艺": "3",
         "动漫": "4",
-        "MV": "23",
-        "欧美": "16",
-        "纪录片": "21"
+        "MV":"34"
     },
     "homeVodNode": "//div[@class='module-items module-poster-items-base ']/a",
     "homeVodName": "/@title",
