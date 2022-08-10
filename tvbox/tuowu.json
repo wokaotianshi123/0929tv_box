@@ -10,10 +10,10 @@
     "cateManual": {
         "电影": "1",
         "剧集": "2",
-        "韩剧": "13",
-        "日剧": "15",
-        "美剧": "16",
+        "综艺": "3",
         "动漫": "4",
+        "MV": "23",
+        "欧美": "16",
         "纪录片": "21"
     },
     "homeVodNode": "//div[@class='module-items module-poster-items-base ']/a",
