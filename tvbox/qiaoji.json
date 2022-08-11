@@ -5,6 +5,88 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 
 "sites":[
+  {"key":"csp_Kunyu77","name":"👒七七〔SP〕公众号：【云星日记】","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_SP360","name":"💘360〔SP〕本接口在线免费维护更新","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://maoyingshi.cc/tvbox/云星日记/jar/360.jar"},
+{"key":"csp_Bttoo","name":"🐞两个BT〔SP〕","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"酷猫","name":"🐞酷猫〔SP〕","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kuaikan","name":"👀快看〔SP〕","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_hbys","name":"🐞简影〔SP〕","api":"csp_JianYing","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY"},
+{"key": "csp_剧荒","name": "🎭剧荒〔SP〕","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://刚刚.live/jar/"},
+
+
+{"key":"KanSJ_spider","name":"🐞看视界〔SP〕","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"http://static01.imgkr.com/temp/b7d09c90cd4d4ef398d7eae3fdf14538.jpg;md5;7eacb357cf27abce92ed497367221e5a"},
+{"key":"csp_LiteApple","name":"🍎小苹果〔SP〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
+{"key":"csp_AppYsV2","name": "🚁优众影视〔SP〕","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://121.205.88.178:8090/xgapp.php/v2/"},
+{"key": "293视频","name": "🌈②⑨③293〔SP〕","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://maoyingshi.cc/tvbox/云星日记/jar/0809.jar"},
+{"key": "Lezhu_spider","name": "🐷乐猪影视〔SP〕","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/0809.jar"},
+{"key": "厂长影视","name": "🚬厂长资源〔SP〕","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_Cokemv","name":"📺Cokemv〔SP〕","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"mjxq_spider","name":"🌏美剧星球〔SP〕","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
+
+{
+			"key": "csp_QQ",
+			"name": "🐧腾讯视频",
+			"type": 3,
+			"api": "csp_QQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "http://maoyingshi.cc/tvbox/云星日记/jar/腾讯爱奇艺芒果.jpg;md5;3c40dbcb8082364e1c416ebc3e219e6a"
+		},
+		{
+			"key": "爱奇艺",
+			"name": "🌳爱奇艺",
+			"type": 3,
+			"api": "csp_IQIYI",
+			"quickSearch": 1,
+			"searchable": 1,
+			"filterable": 1,
+			"jar": "http://maoyingshi.cc/tvbox/云星日记/jar/腾讯爱奇艺芒果.jpg;md5;3c40dbcb8082364e1c416ebc3e219e6a"
+		},
+		{
+			"key": "csp_MGTV",
+			"name": "🥭芒果TV",
+			"type": 3,
+			"api": "csp_MGTV",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "http://maoyingshi.cc/tvbox/云星日记/jar/腾讯爱奇艺芒果.jpg;md5;3c40dbcb8082364e1c416ebc3e219e6a"
+		},
+		{
+			"key": "优酷(官源)",
+			"name": "🚶优酷(官源)",
+			"type": 0,
+			"api": "http://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": ["综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港台剧", "日韩剧", "欧美剧", "惊悚片", "犯罪片", "冒险片", "悬疑片", "动画片", "武侠片", "奇幻片", "少儿", "其他片", "其他剧"],
+			"plugin": "http://maoyingshi.cc/tvbox/云星日记/jar/优酷PPTV搜狐.jpg;md5;95f1754708eeaf127d93fea25dcd120a"
+		},
+		{
+			"key": "🎩PPTV(官源)",
+			"name": "PPTV(官源)",
+			"type": 0,
+			"api": "http://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": ["综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港台剧", "日韩剧", "欧美剧", "惊悚片", "犯罪片", "冒险片", "悬疑片", "动画片", "武侠片", "奇幻片", "少儿", "其他片", "其他剧"],
+			"plugin": "http://maoyingshi.cc/tvbox/云星日记/jar/优酷PPTV搜狐.jpg;md5;95f1754708eeaf127d93fea25dcd120a"
+		},
+		{
+			"key": "搜狐(官源)",
+			"name": "🦊搜狐(官源)",
+			"type": 0,
+			"api": "http://www.zycaiji.net:7788/api.php/provide/vod/from/sohu/at/xml/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": ["综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港台剧", "日韩剧", "欧美剧", "惊悚片", "犯罪片", "冒险片", "悬疑片", "动画片", "武侠片", "奇幻片", "少儿", "其他片", "其他剧"],
+			"plugin": "http://maoyingshi.cc/tvbox/云星日记/jar/优酷PPTV搜狐.jpg;md5;95f1754708eeaf127d93fea25dcd120a"
+		},
+
 {"key":"csp_77"            ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360_spider"        ,"name":"🐞360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_CZSPP"         ,"name":"🐞厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
