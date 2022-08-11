@@ -620,6 +620,13 @@
 {"key":"酷猫影视","name":"酷猫影视(聚)","type":1,"api":"https://www.pgcms10.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"胖猫影视","name":"胖猫影视(聚)","type":1,"api":"https://www.pangmaotv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"海外电影","name":"海外电影(聚)","type":1,"api":"https://www.200121.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
+
+
+{"key":"yule","name":"------以下为娱乐资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_biubiu_斗鱼","name":"🐬斗鱼〔直播〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/douyu.json"},
+{"key":"csp_xpath_huya","name":"🐯虎牙〔直播〕","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/huya.json"},
+{"key": "csp_xpath_网络搜集库qiumi","name": "⚽️球迷专场","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/dj.json"},
 //cr18+
 {"key":"*芒果资源","name":"芒果资源","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*一本道源","name":"一本道源","type":0,"api":"https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml","searchable":0,"quickSearch":0},
