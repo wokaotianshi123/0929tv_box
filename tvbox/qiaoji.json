@@ -1724,39 +1724,6 @@
             }
         },
         {
-            "name": "铭轩解析（铭轩）",
-            "type": 1,
-            "url": "http://lz0716.xyz/home/api?type=ys&uid=29623&key=dgjmpqryzAEGKOPW01&url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "CL4K",
-                    "renrenmi",
-                    "ltnb",
-                    "xigua",
-                    "rongxing",
-                    "rx",
-                    "xfy",
-                    "xueren"
-                ],
-                "header": {
-                    "User-Agent": "Mozilla/5.0 ( GMSCore 19.6.29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.105 HuaweiBrowser/12.0.3.301 Mobile Safari/537.36"
-                }
-            }
-        },
-        {
             "name": "天成解析（梦幻）",
             "type": 1,
             "url": "http://json.1920lgzy.top/home/api?type=ys&uid=11380&key=abelorstuvBCDHKN49&url=",
