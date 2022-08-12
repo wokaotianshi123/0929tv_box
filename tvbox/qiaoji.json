@@ -103,16 +103,8 @@
 		"quickSearch": 1,
 		"searchable": 1,
 		"ext": ""
-	}, {
-		"key": "293视频",
-		"name": "🐞293视频",
-		"type": 3,
-		"api": "csp_SP293",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": ""
-	},{
+	},
+{
 		"key": "Smdyy_spider",
 		"name": "🐞神马影视",
 		"api": "csp_Smdyy",
