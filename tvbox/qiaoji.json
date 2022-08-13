@@ -39,14 +39,6 @@
 		"ext": ""
 	}, 
   {
-		"key": "快看影视",
-		"name": "🐞快看影视",
-		"type": 3,
-		"api": "csp_Kuaikan",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	}, {
 		"key": "3EDY",
 		"name": "🐞3EDY(EXO)",
 		"type": 3,
