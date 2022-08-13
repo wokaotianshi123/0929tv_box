@@ -42,7 +42,7 @@
 {"key":"sp_AliPS"       ,"name":"🌥阿里盘搜〔搜〕","type":3,"api":"csp_AliPanSou"},
 {"key":"sp_FindZY"      ,"name":"🔎阿里找源〔搜〕","type":3,"api":"csp_FindZY"},
 {"key":"氛围声"           ,"name":"🖼假窗·氛围·白噪声〔B〕","type":3,"api":"csp_Blijc","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_GitCafe}",
+{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_GitCafe"},
 
 
 
