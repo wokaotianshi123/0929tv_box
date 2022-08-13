@@ -176,7 +176,7 @@
 {"key":"csp_Auete"         ,"name":"🐞Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv"        ,"name":"🐞Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"在线之家","name":"🐞在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_BBB"        ,"name":"🐞哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Bili.json"},
+{"key": "csp_BBB"        ,"name":"🐞哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/bili.json"},
 
 
 
