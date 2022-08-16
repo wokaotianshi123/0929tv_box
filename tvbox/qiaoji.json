@@ -2030,27 +2030,7 @@
                 ]
             }
         },
-        {
-            "name": "爱酷解析",
-            "type": 1,
-            "url": "https://cache.json.icu/home/api?type=ys&uid=58291&key=bdijprtxADFHJKPW45&url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "youku",
-                    "优酷",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺"
-                ]
-            }
-        },
+        
         {
             "name": "莎士比亚",
             "type": 1,
