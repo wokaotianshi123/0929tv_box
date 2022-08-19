@@ -1670,7 +1670,7 @@
        
          {
             "name": "Json轮询（推荐）",
-            "type": 2,
+            "type": 3,
             "url": "Sequence"
         },
         {
