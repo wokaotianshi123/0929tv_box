@@ -1658,7 +1658,7 @@
   "parses": [
        
          {
-            "name": "Json并发",
+            "name": "Json并发（推荐）",
             "type": 2,
             "url": "Parallel"
         },
@@ -1669,8 +1669,8 @@
         },
        
          {
-            "name": "Json轮询（推荐）",
-            "type": 3,
+            "name": "Json轮询",
+            "type": 2,
             "url": "Sequence"
         },
         {
