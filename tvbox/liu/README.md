@@ -4,9 +4,9 @@
 
 ## 【推荐】 六神TV（内置多条线路，在线切换）
 
-[下载地址](https://gitea.com/y36369999/9/raw/branch/9/1/六神TV.apk)
+[下载地址](https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/liu/%E5%85%AD%E7%A5%9ETV.apk)
 
-[使用说明](https://gitea.com/y36369999/9/raw/branch/9/README.md)
+[使用说明](https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/liu/README.md)
 
 ## 配置
 
