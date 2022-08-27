@@ -1144,11 +1144,11 @@
     //线路二次截取后
     "tab_twice_suf": "",
     //线路截取数组前
-    "tab_arr_pre": "class=\"module-tab-item tab-item",
+    "tab_arr_pre": "module-tab-item tab-item",
     //线路截取数组后
     "tab_arr_suf": "</div>",
     //线路标题，截取前缀&&截取后缀
-    "tab_title": "\">&&<small>",
+    "tab_title": "<span data-dropdown-value=\"&&\"",
     
     //列表是否二次截取
     "list_YN_twice": "0",
