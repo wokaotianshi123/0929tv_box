@@ -9,6 +9,7 @@
     //分类链接起始页码,禁止负数于合含小数点。
    
      "firstpage": "1",
+     "homeContent":"1",
     //分类链接,{cateId}是分类，{catePg}是页码,第一页没有页码的可以这样写 第二页链接[firstPage=第一页的链接]
     "class_url": "https://waipian7.com/show-{cateId}-{area}--{class}-----{catePg}---{year}/",
     //分类名
