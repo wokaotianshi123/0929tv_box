@@ -8,6 +8,7 @@
     "UserAgent":"",
     //分类链接起始页码,禁止负数于合含小数点。
     "firstpage": "1",
+    "homeContent":"1",
     //分类链接,{cateId}是分类，{catePg}是页码,第一页没有页码的可以这样写 第二页链接[firstPage=第一页的链接]
     "class_url": "https://www.23wm.net/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
     //分类名
