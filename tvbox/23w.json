@@ -763,5 +763,9 @@
     "epiurl_prefix": "https://www.23wm.net",
     //集数链接补后缀
     "epiurl_suffix": "",
-    "Anal_MacPlayer":"1"
+    "Anal_MacPlayer":"",
+    "ManualSniffer":"1",
+    //手动嗅探视频链接关键字，每个用#隔开
+    "VideoFormat":".mp4#.m3u8#.flv#item/video#is_play_url=1"
+
 }
