@@ -5,7 +5,8 @@
 "spider":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/jar0828.jar",
 // 直播
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC93ZWl4aW5fNDQ0NDg5NTUvdHZtb3ZpZS8tL3Jhdy9tYXN0ZXIvdHZib3gvdHYvdHY4OC50eHQ="]}]}],
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
+//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3huLS00YnJhLmxpdmUvamFyMi9saXZlLnR4dA=="]}]}],
 "wallpaper":"http://css.lc/api.php",
 "sites":[
 
