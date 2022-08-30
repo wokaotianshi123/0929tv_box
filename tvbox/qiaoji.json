@@ -8,7 +8,7 @@
 "wallpaper":"http://css.lc/api.php",
 "sites":[
 
-  {"key":"csp_Kunyu77","name":"👒七七〔SP〕公众号：【云星日记】","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+  //{"key":"csp_Kunyu77","name":"👒七七〔SP〕公众号：【云星日记】","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"💘360〔SP〕本接口在线免费维护更新","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/360.jar"},
 {"key":"csp_Bttoo","name":"🐞两个BT〔SP〕","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/gang.jar"},
 //{"key":"酷猫","name":"🐞酷猫〔SP〕","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1"filterable":1},
