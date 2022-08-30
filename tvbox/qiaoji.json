@@ -52,12 +52,12 @@
 	}, 
 
 
-{"key":"sp_BBB"        ,"name":"😂B站专区〔B〕","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"sp_Blixq"      ,"name":"😂戏曲专区〔B〕","type":3,"api":"csp_Blixq","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"sp_Bliqx"      ,"name":"😂球星专区〔B〕","type":3,"api":"csp_Bliqx","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"sp_Bliyc"      ,"name":"😂演唱现场〔B〕","type":3,"api":"csp_Bliyc","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"sp_Blidw"      ,"name":"😂动物世界〔B〕","type":3,"api":"csp_Blidw","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"sp_Blixs"      ,"name":"😂相声小品〔B〕","type":3,"api":"csp_Blixs","searchable":0,"quickSearch":0,"filterable":1},
+//{"key":"sp_BBB"        ,"name":"😂B站专区〔B〕","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1},
+//{"key":"sp_Blixq"      ,"name":"😂戏曲专区〔B〕","type":3,"api":"csp_Blixq","searchable":0,"quickSearch":0,"filterable":1},
+//{"key":"sp_Bliqx"      ,"name":"😂球星专区〔B〕","type":3,"api":"csp_Bliqx","searchable":0,"quickSearch":0,"filterable":1},
+//{"key":"sp_Bliyc"      ,"name":"😂演唱现场〔B〕","type":3,"api":"csp_Bliyc","searchable":0,"quickSearch":0,"filterable":1},
+//{"key":"sp_Blidw"      ,"name":"😂动物世界〔B〕","type":3,"api":"csp_Blidw","searchable":0,"quickSearch":0,"filterable":1},
+//{"key":"sp_Blixs"      ,"name":"😂相声小品〔B〕","type":3,"api":"csp_Blixs","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"csp_biubiu_斗鱼","name":"🐬斗鱼〔直播〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/douyu.json"},
 {"key":"csp_xpath_huya","name":"🐯虎牙〔直播〕","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/huya.json"},
 {"key": "csp_xpath_网络搜集库qiumi","name": "⚽️球迷专场","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/dj.json"},
