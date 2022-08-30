@@ -3,8 +3,8 @@
 //"spider":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/0811.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea",
 "spider":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/top99.jar;md5;ddef9c71e58558d4a374a9fa56fe6076",
 // 直播
-//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
+//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
 "wallpaper":"http://css.lc/api.php",
 "sites":[
 
