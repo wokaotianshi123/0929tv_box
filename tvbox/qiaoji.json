@@ -12,7 +12,7 @@
 "sites":[
 
   
-  {"key": "csp_XYQBiu_万能影视","name":"万能视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/wnys_xyq_.json"},{"key": "csp_XYQBiu_凌云影视","name":"凌云视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/lyys_xyq_.json","jar":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"},
+  {"key": "csp_XYQBiu_万能影视","name":"万能视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/wnys_xyq_.json"},{"key": "csp_XYQBiu_凌云影视","name":"凌云视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/lyys_xyq_.json"},
 {"key":"csp_SP360","name":"💘360〔SP〕本接口在线免费维护更新","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/360.jar"},
 {"key":"csp_Kunyu77","name":"👒七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://maoyingshi.cc/tvbox/云星日记/jar/77.jar"},
 {"key":"csp_Bttoo","name":"🐞两个BT〔SP〕","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/gang.jar"},
@@ -29,7 +29,7 @@
 {"key":"csp_LiteApple","name":"🍎小苹果〔SP〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 //{"key":"csp_AppYsV2","name": "🚁优众影视〔SP〕","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://121.205.88.178:8090/xgapp.php/v2/"},
 //{"key": "293视频","name": "🌈②⑨③293〔SP〕","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "Lezhu_spider","name": "🐷乐猪影视〔SP〕","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "","jar":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/0809.jar"},
+{"key": "Lezhu_spider","name": "🐷乐猪影视〔SP〕","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
 
 //{"key":"csp_hbys","name":"🐞简影","api":"csp_JianYing","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU5MjQwNzQzLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.xB1ZZAaYwrkyLF8bD1KyQKC2tmW0myIZgUQvTVQWELk"},
 {"key":"csp_Wmkk","name":"🐞完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
