@@ -15,8 +15,8 @@
 //  "分类页": "https://juhuang.tv/type/{cateId}_type_{catePg}.html",
   "分类页": "https://juhuang.tv/type/{cateId}_type_{catePg}.html||https://juhuang.tv/type/{cateId}_type.html",
 
-  "分类":  "1||2||3||4",
-  "小类": "1--印度$30#欧美$20#日韩$6#华语$7||2--英剧$27#泰剧$24#韩剧$13#华语$14#日剧$15#美剧$16",
+  "分类":  "",
+  "小类": "",
 
   
   "shifouercijiequ": "0",
