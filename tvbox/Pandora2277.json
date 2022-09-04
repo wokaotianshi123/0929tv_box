@@ -5,7 +5,7 @@
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 
   "sites":[
-{"key":"VIP1","name":"VIP1","type":4,"api":"http://vod.kooo.eu.org/t4/vip100001","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"VIP1","name":"VIP1","type":4,"api":"http://vod.kooo.eu.org/t4/vip100001","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"VIP2","name":"VIP2","type":4,"api":"https://vod.kooo.eu.org/t4/vip100002","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"VIP4","name":"VIP4","type":4,"api":"https://vod.kooo.eu.org/t4/vip100004","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"VIP8","name":"VIP8","type":4,"api":"https://vod.kooo.eu.org/t4/vip100008","searchable":1,"quickSearch":1,"filterable":1},
