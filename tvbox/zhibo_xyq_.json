@@ -60,14 +60,14 @@
     "list_YN_twice": "0",
     "list_twice_pre": "",
     "list_twice_suf": "",
-    "list_arr_pre": "\\[",//播放列表前
-    "list_arr_suf": "\\]",//播放列表后
+    "list_arr_pre": "[",//播放列表前
+    "list_arr_suf": "]",//播放列表后
 
     "epi_YN_twice": "0",
     "epi_twice_pre": "空",
     "epi_twice_suf": "空",
-    "epi_arr_pre": "\\{",
-    "epi_arr_suf": "\\}",
+    "epi_arr_pre": "{",
+    "epi_arr_suf": "}",
     "epi_title": "title\":\"&&\"",
     "epi_url": "address\":\"&&\"",
     "epiurl_prefix": "",
