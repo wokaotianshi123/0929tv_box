@@ -1,7 +1,7 @@
 {
     "title": "城市电影",
     "author": "灰太狼",
-    "UserAgent":"", //可填MOBILE_UA或PC_UA内置手机或电脑UA
+    "UserAgent":"PC_UA", //可填MOBILE_UA或PC_UA内置手机或电脑UA
     "Referer":"", //一般很少用，留空或删除
     "homeContent":"1", //开启首页，0关闭，1开启
   //分类数据
