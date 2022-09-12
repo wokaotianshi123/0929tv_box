@@ -9,8 +9,8 @@
     //分类链接,{cateId}是分类，{catePg}是页码,第一页没有页码的可以这样写 第二页链接[firstPage=第一页的链接]
     //https://www.citydy.com/show/id-{cateId}/page/{catePg}.html
     "class_url": "https://www.citydy.com/type/id-{cateId}{class}{area}{by}/page/{catePg}{year}.html",
-    "class_name": "电影&电视剧&综艺&动漫",   //分类名，分类1&分类2&分类3
-    "class_value": "1&2&3&4",
+    "class_name": "电影&电视剧&综艺&动漫&纪录片",   //分类名，分类1&分类2&分类3
+    "class_value": "1&2&3&4&5",
    "filterdata":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/sai/xie.json",
     //数组数据
     "cat_YN_twice": "0", //分类是否二次截取
