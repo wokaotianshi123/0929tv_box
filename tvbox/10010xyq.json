@@ -25,7 +25,7 @@
     //分类名替换词，替换词1&替换词2&替换词3，替换词包含英文&的用两个中文＆＆代替，示例：＆＆id=0&＆＆id=1
     "class_value": "1&2&3&4",
     //筛选数据，json格式，参考xpath的筛选写法
-    "filterdata":{},
+    "filterdata":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/sai/xie.json",
     //分类是否二次截取
     "cat_YN_twice": "0",
     //分类二次截取前
