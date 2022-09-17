@@ -78,11 +78,23 @@
     "play_suffix": "#isVideo=true#",
     //直接播放链接设置请求头，只对直链视频有效，每一组用#分开
     "play_header": "authority$ku.peizq.online#Referer$https://play.peizq.online",
-    
+     "proj_is_jsoup":"0",
+    //类型数据，截取前缀&&截取后缀
+    "proj_cate": "导演：</span>&&</div>",
+    //年代数据，截取前缀&&截取后缀
+    "proj_year": "年份：</span>&&</div>",
+    //地区数据，截取前缀&&截取后缀
+    "proj_area": "更新：</span>&&</div>",
     //演员数据，截取前缀&&截取后缀
-    "proj_actor": ".module-info-tag&&Text",
+    "proj_actor": "主演：</span>&&</div>",
     //简介内容，截取前缀&&截取后缀
-    "proj_plot": ".module-info-introduction-content&&p,0&&Text",
+    "proj_plot": "class=\"module-info-introduction-content&&</p>",
+   
+    //演员数据，截取前缀&&截取后缀
+   // "proj_actor": ".module-info-content&&.module-info-item,3&&Text!主演：",
+       
+    //简介内容，截取前缀&&截取后缀
+    //"proj_plot": ".module-info-introduction-content&&p,0&&Text",
     
     //线路截取区域，如果不需要请把tab_title或tab_arr_rule置空或者全部不要填。
     //线路截取数组
