@@ -63,7 +63,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":0,
-    "ext":"{\"分类url\": \"https://m.zhuafan.tech{cateId}\",\"分类\":\"全部$/sports-home/category/all#足球$/sports-home/category/Football#篮球$/sports-home/category/Basketball#羽乒$/sports-home/category/Badminton#台球$/sports-home/category/Billiards#棒球$/sports-home/category/Baseball#户外$/sports-home/category/Outdoors#搏击$/sports-home/category/Wrestling#综合$/sports-home/category/Others#棋盘$/sports-home/category/Boardgame#电竞$/sports-home/category/Popular#网球$/sports-home/category/Tennis#排球$/sports-home/category/Volleyball#聊天$/sports-home/category/Chat#原声$/sports-home/category/Acoustic\",\"热门推荐\": \"1\",\"起始页\": \"1\",\"直接播放\": \"1\",\"数组\": \"{&&}\",\"图片\": \"imageUrl\\\":\\\"&&\\\"\",\"标题\": \"cname\\\":\\\"&&\\\"\",\"链接\": \"id\\\":\\\"&&\\\"\",\"链接前缀\": \"https://m.zhuafan.tech/\"}",
+    "ext":"{\"分类url\": \"https://www.zhuafan.tech{cateId}\",\"分类\":\"全部$/sports-home/category/all#足球$/sports-home/category/Football#篮球$/sports-home/category/Basketball#羽乒$/sports-home/category/Badminton#台球$/sports-home/category/Billiards#棒球$/sports-home/category/Baseball#户外$/sports-home/category/Outdoors#搏击$/sports-home/category/Wrestling#综合$/sports-home/category/Others#棋盘$/sports-home/category/Boardgame#电竞$/sports-home/category/Popular#网球$/sports-home/category/Tennis#排球$/sports-home/category/Volleyball#聊天$/sports-home/category/Chat#原声$/sports-home/category/Acoustic\",\"热门推荐\": \"1\",\"起始页\": \"1\",\"直接播放\": \"1\",\"数组\": \"{&&}\",\"图片\": \"imageUrl\\\":\\\"&&\\\"\",\"标题\": \"cname\\\":\\\"&&\\\"\",\"链接\": \"id\\\":\\\"&&\\\"\",\"链接前缀\": \"https://www.zhuafan.tech/\"}",
     "jar":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/xBPQ.jar"
 },
     {
