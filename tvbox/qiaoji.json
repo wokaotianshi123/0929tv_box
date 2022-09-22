@@ -44,7 +44,28 @@
       "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/lyys_xyq_.json",
       "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"
     },
-    {"key": "csp_xBPQ_测试","name": "️测试(XB)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"https://www.86516.tk/vodshow/{cateId}--------{catePg}---/\"}","jar":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/xBPQ.jar"},
+   {
+    "key":"csp_xBPQ_cs",
+    "name":"️FREEOK(XBPQ)",
+    "type":3,
+    "api":"csp_xBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$2#剧集$1#综艺$3#动漫$4#学习$27\",\"分类url\":\"https://www.86516.tk/vodshow/{cateId}--------{catePg}---/\"}",
+    "jar":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/xBPQ.jar"
+},
+{
+    "key":"csp_xBPQ_cs",
+    "name":"️zhi(XBPQ)",
+    "type":3,
+    "api":"csp_xBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"{{\"分类url\": \"https://m.zhuafan.tech/\",\"热门推荐\": \"1\",\"起始页\": \"1\",\"直接播放\": \"1\",\"数组\": \"{&&}\",\"图片\": \"imageUrl\\\":\\\"&&\\\"\",\"标题\": \"cname\\\":\\\"&&\\\"\",\"链接\": \"id\\\":\\\"&&\\\"\",\"链接前缀\": \"https://m.zhuafan.tech/\"}",
+    "jar":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/xBPQ.jar"
+},
     {
       "key": "csp_XYQBiu_kele",
       "name": "可乐影视(XYQ)",
