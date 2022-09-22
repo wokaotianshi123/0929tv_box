@@ -63,7 +63,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":0,
-    "ext":"{\"分类url\": \"https://m.zhuafan.tech/\",\"热门推荐\": \"1\",\"起始页\": \"1\",\"直接播放\": \"1\",\"数组\": \"{&&}\",\"图片\": \"imageUrl\\\":\\\"&&\\\"\",\"标题\": \"cname\\\":\\\"&&\\\"\",\"链接\": \"id\\\":\\\"&&\\\"\",\"链接前缀\": \"https://m.zhuafan.tech/\"}",
+    "ext":"{\"分类url\": \"https://m.zhuafan.tech{cateId}\",\"分类\": \"直播$/\",\"热门推荐\": \"1\",\"起始页\": \"1\",\"直接播放\": \"1\",\"数组\": \"{&&}\",\"图片\": \"imageUrl\\\":\\\"&&\\\"\",\"标题\": \"cname\\\":\\\"&&\\\"\",\"链接\": \"id\\\":\\\"&&\\\"\",\"链接前缀\": \"https://m.zhuafan.tech/\"}",
     "jar":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/xBPQ.jar"
 },
     {
