@@ -63,7 +63,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":0,
-    "ext":"{\"分类url\": \"https://m.zhuafan.tech/\",\"热门推荐\": \"1\",\"起始页\": \"1\",\"直接播放\": \"1\",\"数组\": \"{&&}\",\"图片\": \"imageUrl\\\":\\\"&&\\\"\",\"标题\": \"cname\\\":\\\"&&\\\"\",\"链接\": \"id\\\":\\\"&&\\\"\",\"链接前缀\": \"https://m.zhuafan.tech/\"}",
+    "ext":"{    \"分类url\":\"https://m.zhuafan.tech{cateId}\",    \"分类\":\"全部$/v2/category/all#足球$/v2/category/Football#篮球$/v2/category/Basketball#羽乒$/v2/category/Badminton#台球$/v2/category/Billiards#棒球$/v2/category/Baseball#户外$/v2/category/Outdoors#搏击$/v2/category/Wrestling#综合$/v2/category/Others#棋盘$/v2/category/Boardgame#电竞$/v2/category/Popular#网球$/v2/category/Tennis#排球$/v2/category/Volleyball#聊天$/v2/category/Chat#原声$/v2/category/Acoustic\",    \"热门推荐\":\"1\",    \"起始页\":\"1\",    \"直接播放\":\"1\",    \"数组\":\"{&&}\",    \"图片\":\"imageUrl\\\":\\\"&&\\\"\",    \"标题\":\"cname\\\":\\\"&&\\\"\",    \"链接\":\"id\\\":\\\"&&\\\"\",    \"链接前缀\":\"https://m.zhuafan.tech/\"}",
     "jar":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/xBPQ.jar"
 },
     {
