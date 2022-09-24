@@ -79,6 +79,8 @@
       "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"
     },
     {"key": "csp_csp_XYQHiker_1080tv","name":"1080tv(XYQh)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/1080tv_xyqhz_.json","jar":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"},
+     {"key": "csp_csp_XYQHiker_zhuafan","name":"抓饭直播(XYQh)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/zhuafan_xyq_.json","jar":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"},
+      {"key": "csp_csp_XYQHiker_zxzj","name":"在线之家(XYQh)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/zxzj_xyqhz_.json","jar":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"},
     {
       "key": "csp_csp_XYQHiker_tvy",
       "name": "TV云(XYQh)",
