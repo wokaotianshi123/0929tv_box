@@ -54,7 +54,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://m.7caa.com/list/{cateId}-{catePg}.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/edit/master/tvbox/jar/mix.jar"},
+  "ext": "https://m.7caa.com/list/{cateId}-{catePg}.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
   {
   "key": "csp_xb_jpys",
   "name": "极品影视(R)",
@@ -63,7 +63,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://www.jpys.me/vodshow/{cateId}--------{catePg}---.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/edit/master/tvbox/jar/mix.jar"},
+  "ext": "https://www.jpys.me/vodshow/{cateId}--------{catePg}---.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
     {
   "key": "csp_xb_pbys",
   "name": "片吧影视(R)",
@@ -72,7 +72,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://www.pbpb.tv/class/{cateId}--------{catePg}---.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/edit/master/tvbox/jar/mix.jar"},
+  "ext": "https://www.pbpb.tv/class/{cateId}--------{catePg}---.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
       {
   "key": "csp_xb_dyys",
   "name": "段友影视(R)",
@@ -81,7 +81,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://shangjihuoke.com/index.php/vod/show/id/{cateId}/page/{catePg}.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/edit/master/tvbox/jar/mix.jar"},
+  "ext": "https://shangjihuoke.com/index.php/vod/show/id/{cateId}/page/{catePg}.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
         {
   "key": "csp_xb_135kanys",
   "name": "135kan影视(R)",
@@ -90,7 +90,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "http://www.135kan.com/type/{cateId}-{catePg}/","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/edit/master/tvbox/jar/mix.jar"},
+  "ext": "http://www.135kan.com/type/{cateId}-{catePg}/","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
           {
   "key": "csp_xb_4kkanys",
   "name": "4k看影视(R)",
@@ -99,7 +99,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://4kan.me/vodshow/{cateId}--------{catePg}---/","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/edit/master/tvbox/jar/mix.jar"},
+  "ext": "https://4kan.me/vodshow/{cateId}--------{catePg}---/","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
       {
   "key": "csp_xb_ddgys",
   "name": "达达龟影视(R)",
@@ -108,7 +108,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://www.dadagui.me/vodshow/{cateId}--------{catePg}---.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/edit/master/tvbox/jar/mix.jar"},
+  "ext": "https://www.dadagui.me/vodshow/{cateId}--------{catePg}---.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
         {
   "key": "csp_xb_543ys",
   "name": "543影视(R)",
@@ -117,7 +117,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "  http://543mv.com/vodshow/{cateId}--------{catePg}---/","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/edit/master/tvbox/jar/mix.jar"},
+  "ext": "  http://543mv.com/vodshow/{cateId}--------{catePg}---/","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
 
         {
   "key": "csp_xb_lxys",
@@ -127,7 +127,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://www.lenxitv.cc/t/{cateId}-{catePg}.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/edit/master/tvbox/jar/mix.jar"},
+  "ext": "https://www.lenxitv.cc/t/{cateId}-{catePg}.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
 
 
         {
@@ -138,7 +138,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://www.mozhatu.com/index.php/vod/show/id/{cateId}/page/{catePg}.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/edit/master/tvbox/jar/mix.jar"},
+  "ext": "https://www.mozhatu.com/index.php/vod/show/id/{cateId}/page/{catePg}.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
 
          {
   "key": "csp_xb_ummys",
@@ -148,7 +148,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://www.umkan.com/index.php/vod/show/id/{cateId}/page/{catePg}.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/edit/master/tvbox/jar/mix.jar"},
+  "ext": "https://www.umkan.com/index.php/vod/show/id/{cateId}/page/{catePg}.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
            {
   "key": "csp_xb_kpkrys",
   "name": "看片狂人影视(R)",
@@ -157,7 +157,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://www.kpkuang.de/vodshow/{cateId}--------{catePg}-----.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/edit/master/tvbox/jar/mix.jar"},
+  "ext": "https://www.kpkuang.de/vodshow/{cateId}--------{catePg}-----.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
           {
   "key": "csp_xb_fqys",
   "name": "番茄影视(R)",
@@ -166,7 +166,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://tjomet.com/vodshow/{cateId}--------{catePg}---.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/edit/master/tvbox/jar/mix.jar"},
+  "ext": "https://tjomet.com/vodshow/{cateId}--------{catePg}---.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
 
           {
   "key": "csp_xb_lgys",
@@ -176,7 +176,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://www.lgyy.cc/vodshow/{cateId}--------{catePg}---.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/edit/master/tvbox/jar/mix.jar"},
+  "ext": "https://www.lgyy.cc/vodshow/{cateId}--------{catePg}---.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
           {
   "key": "csp_xb_nikeys",
   "name": "Nike影视(R)",
@@ -185,7 +185,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://www.ajeee.com/show/{cateId}/page/{catePg}.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/edit/master/tvbox/jar/mix.jar"},
+  "ext": "https://www.ajeee.com/show/{cateId}/page/{catePg}.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
             {
   "key": "csp_xb_vofixys",
   "name": "vofix影视(R)",
@@ -194,7 +194,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://www.voflix.com/show/{cateId}--------{catePg}---.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/edit/master/tvbox/jar/mix.jar"},
+  "ext": "https://www.voflix.com/show/{cateId}--------{catePg}---.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
     {
       "key": "csp_XYQBiu_kele",
       "name": "可乐影视(XYQ)",
