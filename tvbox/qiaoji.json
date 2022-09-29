@@ -1,8 +1,8 @@
 {
   // spider
-  //"spider":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/0811.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea",
-  //"spider":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/top99.jar;md5;ddef9c71e58558d4a374a9fa56fe6076",
-  //"spider": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/0901.jar",
+  //"spider":"https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/0811.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea",
+  //"spider":"https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/top99.jar;md5;ddef9c71e58558d4a374a9fa56fe6076",
+  //"spider": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/0901.jar",
   "spider":"http://刚刚.live/jar2/0901.jar",
   // 直播
   //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC93ZWl4aW5fNDQ0NDg5NTUvdHZtb3ZpZS8tL3Jhdy9tYXN0ZXIvdHZib3gvdHYvdHY4OC50eHQ="]}]}],
@@ -30,8 +30,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/wnys_xyq_.json",
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/wnys_xyq_.json",
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/XYQBiu.jar"
     },
     {
       "key": "csp_XYQBiu_凌云影视",
@@ -41,11 +41,33 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/lyys_xyq_.json",
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/lyys_xyq_.json",
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/XYQBiu.jar"
     },
-{"key": "csp_xBPQ_cs","name": "️FREEOK(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"主演\": \"主演：&&</div\",\"简介\":\"module-info-introduction-content\\\">&&</p>\",\"分类\":\"电影$2#剧集$1#综艺$4#动漫$3#学习$27\",\"分类url\":\"https://www.86516.tk/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/\",\"筛选\":\"1\"}","jar":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/xBPQ.jar"},
-//{"key":"csp_xBPQ_zhi","name":"️zhi(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"分类url\": \"https://www.zhuafan.tech/sports-home/category/{cateId}\",\"分类\":\"全部$/all#足球$Football#篮球$Basketball#羽乒$Badminton#台球$Billiards#棒球$Baseball#户外$Outdoors#搏击$Wrestling#综合$Others#棋盘$Boardgame#电竞$Popular#网球$Tennis#排球$Volleyball#聊天$Chat#原声$Acoustic\",\"热门推荐\": \"1\",\"起始页\": \"1\",\"直接播放\": \"1\",\"数组\": \"{&&}\",\"图片\": \"imageUrl\\\":\\\"&&\\\"\",\"标题\": \"cname\\\":\\\"&&\\\"\",\"链接\": \"id\\\":\\\"&&\\\"\",\"链接前缀\": \"https://www.zhuafan.tech/\"}","jar":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/xBPQ.jar"},
+{"key": "csp_xBPQ_cs","name": "️FREEOK(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"主演\": \"主演：&&</div\",\"简介\":\"module-info-introduction-content\\\">&&</p>\",\"分类\":\"电影$2#剧集$1#综艺$4#动漫$3#学习$27\",\"分类url\":\"https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/\",\"筛选\":\"1\"}","jar":"https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/xBPQ.jar"},
+//{"key":"csp_xBPQ_zhi","name":"️zhi(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"分类url\": \"https://www.zhuafan.tech/sports-home/category/{cateId}\",\"分类\":\"全部$/all#足球$Football#篮球$Basketball#羽乒$Badminton#台球$Billiards#棒球$Baseball#户外$Outdoors#搏击$Wrestling#综合$Others#棋盘$Boardgame#电竞$Popular#网球$Tennis#排球$Volleyball#聊天$Chat#原声$Acoustic\",\"热门推荐\": \"1\",\"起始页\": \"1\",\"直接播放\": \"1\",\"数组\": \"{&&}\",\"图片\": \"imageUrl\\\":\\\"&&\\\"\",\"标题\": \"cname\\\":\\\"&&\\\"\",\"链接\": \"id\\\":\\\"&&\\\"\",\"链接前缀\": \"https://www.zhuafan.tech/\"}","jar":"https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/xBPQ.jar"},
+    {
+      "key": "csp_XYQBiu_kele",
+      "name": "可乐影视(XYQ)",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/kele_xyq_.json",
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/XYQBiu.jar"
+    },
+    {
+      "key": "csp_csp_XYQHiker_guap",
+      "name": "瓜皮(XYQh)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/giapi_xyqh_.json",
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/XYQBiu.jar"
+    },
 {
   "key": "csp_xb_玄天",
   "name": "玄天影院(R)",
@@ -54,7 +76,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://m.7caa.com/list/{cateId}-{catePg}.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
+  "ext": "https://m.7caa.com/list/{cateId}-{catePg}.html","jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/mix.jar"},
   {
   "key": "csp_xb_jpys",
   "name": "极品影视(R)",
@@ -63,7 +85,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://www.jpys.me/vodshow/{cateId}--------{catePg}---.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
+  "ext": "https://www.jpys.me/vodshow/{cateId}--------{catePg}---.html","jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/mix.jar"},
     {
   "key": "csp_xb_pbys",
   "name": "片吧影视(R)",
@@ -72,7 +94,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://www.pbpb.tv/class/{cateId}--------{catePg}---.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
+  "ext": "https://www.pbpb.tv/class/{cateId}--------{catePg}---.html","jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/mix.jar"},
       {
   "key": "csp_xb_dyys",
   "name": "段友影视(R)",
@@ -81,7 +103,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://shangjihuoke.com/index.php/vod/show/id/{cateId}/page/{catePg}.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
+  "ext": "https://shangjihuoke.com/index.php/vod/show/id/{cateId}/page/{catePg}.html","jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/mix.jar"},
         {
   "key": "csp_xb_135kanys",
   "name": "135kan影视(R)",
@@ -90,7 +112,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "http://www.135kan.com/type/{cateId}-{catePg}/","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
+  "ext": "http://www.135kan.com/type/{cateId}-{catePg}/","jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/mix.jar"},
           {
   "key": "csp_xb_4kkanys",
   "name": "4k看影视(R)",
@@ -99,7 +121,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://4kan.me/vodshow/{cateId}--------{catePg}---/","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
+  "ext": "https://4kan.me/vodshow/{cateId}--------{catePg}---/","jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/mix.jar"},
       {
   "key": "csp_xb_ddgys",
   "name": "达达龟影视(R)",
@@ -108,7 +130,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://www.dadagui.me/vodshow/{cateId}--------{catePg}---.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
+  "ext": "https://www.dadagui.me/vodshow/{cateId}--------{catePg}---.html","jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/mix.jar"},
         {
   "key": "csp_xb_543ys",
   "name": "543影视(R)",
@@ -117,7 +139,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "  http://543mv.com/vodshow/{cateId}--------{catePg}---/","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
+  "ext": "  http://543mv.com/vodshow/{cateId}--------{catePg}---/","jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/mix.jar"},
 
         {
   "key": "csp_xb_lxys",
@@ -127,7 +149,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://www.lenxitv.cc/t/{cateId}-{catePg}.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
+  "ext": "https://www.lenxitv.cc/t/{cateId}-{catePg}.html","jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/mix.jar"},
 
 
         {
@@ -138,7 +160,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://www.mozhatu.com/index.php/vod/show/id/{cateId}/page/{catePg}.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
+  "ext": "https://www.mozhatu.com/index.php/vod/show/id/{cateId}/page/{catePg}.html","jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/mix.jar"},
 
          {
   "key": "csp_xb_ummys",
@@ -148,7 +170,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://www.umkan.com/index.php/vod/show/id/{cateId}/page/{catePg}.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
+  "ext": "https://www.umkan.com/index.php/vod/show/id/{cateId}/page/{catePg}.html","jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/mix.jar"},
            {
   "key": "csp_xb_kpkrys",
   "name": "看片狂人影视(R)",
@@ -157,7 +179,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://www.kpkuang.de/vodshow/{cateId}--------{catePg}-----.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
+  "ext": "https://www.kpkuang.de/vodshow/{cateId}--------{catePg}-----.html","jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/mix.jar"},
           {
   "key": "csp_xb_fqys",
   "name": "番茄影视(R)",
@@ -166,7 +188,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://tjomet.com/vodshow/{cateId}--------{catePg}---.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
+  "ext": "https://tjomet.com/vodshow/{cateId}--------{catePg}---.html","jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/mix.jar"},
 
           {
   "key": "csp_xb_lgys",
@@ -176,7 +198,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://www.lgyy.cc/vodshow/{cateId}--------{catePg}---.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
+  "ext": "https://www.lgyy.cc/vodshow/{cateId}--------{catePg}---.html","jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/mix.jar"},
           {
   "key": "csp_xb_nikeys",
   "name": "Nike影视(R)",
@@ -185,7 +207,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://www.ajeee.com/show/{cateId}/page/{catePg}.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
+  "ext": "https://www.ajeee.com/show/{cateId}/page/{catePg}.html","jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/mix.jar"},
             {
   "key": "csp_xb_vofixys",
   "name": "vofix影视(R)",
@@ -194,32 +216,12 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://www.voflix.com/show/{cateId}--------{catePg}---.html","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/mix.jar"},
-    {
-      "key": "csp_XYQBiu_kele",
-      "name": "可乐影视(XYQ)",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/kele_xyq_.json",
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"
-    },
-    {
-      "key": "csp_csp_XYQHiker_guap",
-      "name": "瓜皮(XYQh)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/giapi_xyqh_.json",
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"
-    },
-    {"key": "csp_csp_XYQHiker_1080tv","name":"1080tv(XYQh)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/1080tv_xyqhz_.json","jar":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"},
-     {"key": "csp_csp_XYQHiker_zhuafan","name":"抓饭直播(XYQh)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/zhuafan_xyq_.json","jar":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"},
-      {"key": "csp_csp_XYQHiker_zxzj","name":"在线之家(XYQh)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/zxzj_xyqhz_.json","jar":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"},
+  "ext": "https://www.voflix.com/show/{cateId}--------{catePg}---.html","jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/mix.jar"},
+
+    {"key": "csp_csp_XYQHiker_1080tv","name":"1080tv(XYQh)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/1080tv_xyqhz_.json","jar":"https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/XYQBiu.jar"},
+        {"key": "csp_csp_XYQHiker_98km","name":"98km(XYQh)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/98km_xyqh_.json","jar":"https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/XYQBiu.jar"},
+     {"key": "csp_csp_XYQHiker_zhuafan","name":"抓饭直播(XYQh)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/zhuafan_xyq_.json","jar":"https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/XYQBiu.jar"},
+      {"key": "csp_csp_XYQHiker_zxzj","name":"在线之家(XYQh)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/zxzj_xyqhz_.json","jar":"https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/XYQBiu.jar"},
     {
       "key": "csp_csp_XYQHiker_tvy",
       "name": "TV云(XYQh)",
@@ -228,8 +230,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/tvy_xyqh_.json",
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/tvy_xyqh_.json",
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/XYQBiu.jar"
     },
     {
       "key": "csp_csp_XYQHiker_klm",
@@ -239,11 +241,11 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/klm_xyqhz_.json",
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/klm_xyqhz_.json",
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/XYQBiu.jar"
     },
-    {"key": "csp_csp_XYQHiker_1080tv","name":"1080tv(XYQh)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/1080tv_xyqhz_.json","jar":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"},
-    //{"key": "csp_XYQBiu_xmm","name": "小猫咪(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/xmm_xyq_.json","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"},
+    {"key": "csp_csp_XYQHiker_1080tv","name":"1080tv(XYQh)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/1080tv_xyqhz_.json","jar":"https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/XYQBiu.jar"},
+    //{"key": "csp_XYQBiu_xmm","name": "小猫咪(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/xmm_xyq_.json","jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/XYQBiu.jar"},
     {
       "key": "csp_csp_XYQHiker_lekan",
       "name": "乐看(XYQh)",
@@ -252,11 +254,11 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/lekan_xyqh_.json",
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/lekan_xyqh_.json",
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/XYQBiu.jar"
     },
-    //{"key": "csp_XYQBiu_tegou","name": "特狗(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/特狗影视.json","jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"},
-    //{"key":"csp_XBiubiubiubiu_xmm","name":"小猫咪(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/xmmxb.json","jar":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/xbfzy.jar"},
+    //{"key": "csp_XYQBiu_tegou","name": "特狗(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/特狗影视.json","jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/XYQBiu.jar"},
+    //{"key":"csp_XBiubiubiubiu_xmm","name":"小猫咪(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/xmmxb.json","jar":"https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/xbfzy.jar"},
     {
       "key": "csp_XYQBiu_kumayi",
       "name": "酷蚂蚁(XYQ)",
@@ -265,8 +267,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/kumayi_xyq_.json",
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/kumayi_xyq_.json",
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/XYQBiu.jar"
     },
     {
       "key": "csp_XYQBiu_10010",
@@ -276,8 +278,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/10010xyq.json",
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/10010xyq.json",
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/XYQBiu.jar"
     },
     {
       "key": "csp_XYQBiu_csdy",
@@ -287,8 +289,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/csdy.json",
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/csdy.json",
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/XYQBiu.jar"
     },
     {
       "key": "csp_XYQBiu_555影视",
@@ -298,8 +300,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/555_xyq_.json",
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/555_xyq_.json",
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/XYQBiu.jar"
     },
     {
       "key": "csp_XBFBiu_剧荒影视",
@@ -309,8 +311,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/xbf_juhuan.json",
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/xbfzy.jar"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/xbf_juhuan.json",
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/xbfzy.jar"
     },
     {
       "key": "csp_XBFBiu_555影视",
@@ -320,8 +322,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/555.json",
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/xbfzy.jar"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/555.json",
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/xbfzy.jar"
     },
     {
       "key": "csp_555dyxb",
@@ -331,8 +333,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/555dyxb.json",
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/xbfzy.jar"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/555dyxb.json",
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/xbfzy.jar"
     },
     {
       "key": "csp_SP360",
@@ -342,7 +344,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/360.jar"
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/360.jar"
     },
     {
       "key": "csp_Kunyu77",
@@ -361,7 +363,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/gang.jar"
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/gang.jar"
     },
     //{"key":"酷猫","name":"🐞酷猫〔SP〕","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
     {
@@ -555,7 +557,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/bili.json"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/bili.json"
     },
     {
       "key": "csp_biubiu_斗鱼",
@@ -595,7 +597,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/bili/uVuy.txt"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/bili/uVuy.txt"
     },
     {
       "key": "棋牌",
@@ -605,7 +607,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/bili/uVhY.txt"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/bili/uVhY.txt"
     },
     {
       "key": "球类",
@@ -615,7 +617,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/bili/uVi9.txt"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/bili/uVi9.txt"
     },
     {
       "key": "学堂0",
@@ -625,7 +627,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/bili/uUpi.txt"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/bili/uUpi.txt"
     },
     {
       "key": "学堂1",
@@ -635,7 +637,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/bili/uUpk.txt"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/bili/uUpk.txt"
     },
     {
       "key": "学堂2",
@@ -645,7 +647,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/bili/uTqY.txt"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/bili/uTqY.txt"
     },
     {
       "key": "学堂3",
@@ -655,7 +657,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/bili/uTqc.txt"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/bili/uTqc.txt"
     },
     {
       "key": "学堂4",
@@ -665,14 +667,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/bili/uTqz.txt"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/bili/uTqz.txt"
     },
     {
       "key": "MTV",
       "name": "🤗MTV音乐〔X〕",
       "type": 3,
       "api": "csp_XPath",
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/bili/uwDJ.txt"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/bili/uwDJ.txt"
     },
     {
       "key": "球赛",
@@ -682,7 +684,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/bili/uVha.txt"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/bili/uVha.txt"
     },
     {
       "key": "csp_QQ",
@@ -692,7 +694,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/腾讯爱奇艺芒果.jpg;md5;3c40dbcb8082364e1c416ebc3e219e6a"
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/腾讯爱奇艺芒果.jpg;md5;3c40dbcb8082364e1c416ebc3e219e6a"
     },
     {
       "key": "爱奇艺",
@@ -702,7 +704,7 @@
       "quickSearch": 1,
       "searchable": 1,
       "filterable": 1,
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/腾讯爱奇艺芒果.jpg;md5;3c40dbcb8082364e1c416ebc3e219e6a"
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/腾讯爱奇艺芒果.jpg;md5;3c40dbcb8082364e1c416ebc3e219e6a"
     },
     {
       "key": "csp_MGTV",
@@ -712,7 +714,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/腾讯爱奇艺芒果.jpg;md5;3c40dbcb8082364e1c416ebc3e219e6a"
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/腾讯爱奇艺芒果.jpg;md5;3c40dbcb8082364e1c416ebc3e219e6a"
     },
     {
       "key": "csp_LibVio",
@@ -767,7 +769,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/cili.json"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/cili.json"
     },
     {
       "key": "csp_饭团hd影视",
@@ -777,8 +779,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/饭团hd.json",
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/xbfzy.jar"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/饭团hd.json",
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/xbfzy.jar"
     },
     {
       "key": "csp_xpath_蚂蚁影视",
@@ -788,7 +790,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/mayi.json"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/mayi.json"
     },
     {
       "key": "csp_xpath_托乌影视",
@@ -798,7 +800,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/tuowu.json"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/tuowu.json"
     },
     {
       "key": "csp_gr4k影视",
@@ -808,7 +810,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/gr4k.json"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/gr4k.json"
     },
     {
       "key": "csp_小强迷",
@@ -818,7 +820,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/xqm.json"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/xqm.json"
     },
     {
       "key": "csp_电影牛",
@@ -828,9 +830,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/dyn.json"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/dyn.json"
     },
-    //{"key":"csp_1080氢影视","name":"1080氢影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/1080氢.json"},
+    //{"key":"csp_1080氢影视","name":"1080氢影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/1080氢.json"},
     {
       "key": "csp_555dy",
       "name": "555dy影视xp",
@@ -839,8 +841,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/555dy.json",
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/custom_spider.jar"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/555dy.json",
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/custom_spider.jar"
     },
     {
       "key": "csp_XBiubiubiubiu_小强迷影视",
@@ -850,8 +852,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/小强迷xb.json",
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/custom_spider.jar"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/小强迷xb.json",
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/custom_spider.jar"
     },
     {
       "key": "csp_大米星球xb",
@@ -861,8 +863,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/大米星球xb.json",
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/custom_spider.jar"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/大米星球xb.json",
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/custom_spider.jar"
     },
     {
       "key": "csp_XYQBiu_99e",
@@ -872,8 +874,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/99e.json",
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/99e.json",
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/XYQBiu.jar"
     },
     {
       "key": "csp_XYQBiu_23w",
@@ -883,8 +885,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/23w.json",
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/23w.json",
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/XYQBiu.jar"
     },
     {
       "key": "csp_XYQBiu_歪片星球",
@@ -894,8 +896,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/歪片星球_xyq_.json",
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/歪片星球_xyq_.json",
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/XYQBiu.jar"
     },
     {
       "key": "csp_XYQBiu_麻花视频",
@@ -905,8 +907,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/麻花视频_xyq_.json",
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/麻花视频_xyq_.json",
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/XYQBiu.jar"
     },
     {
       "key": "csp_XYQBiu_duan",
@@ -916,8 +918,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/duan.json",
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/duan.json",
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/XYQBiu.jar"
     },
     {
       "key": "Alist",
@@ -927,8 +929,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/Alist.json",
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/Pandora2277.jar"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/Alist.json",
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/Pandora2277.jar"
     },
     {
       "key": "csp_XYQBiu_涩视频",
@@ -938,8 +940,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/cctv6.json",
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/cctv6.json",
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/XYQBiu.jar"
     },
     {
       "key": "csp_XYQBiu_zhibo",
@@ -949,8 +951,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/zhibo_xyq_.json",
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/zhibo_xyq_.json",
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/XYQBiu.jar"
     },
     {
       "key": "csp_XYQBiu_A_V123",
@@ -960,8 +962,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/A_V123xyq.json",
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/A_V123xyq.json",
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/XYQBiu.jar"
     },
     {
       "key": "csp_mdcmxb",
@@ -971,10 +973,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/mdcm.json",
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/xbfzy.jar"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/mdcm.json",
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/xbfzy.jar"
     },
-    //{"key":"csp_XBiubiubiubiu_橘子tv","name":"🍊橘子tv","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/juzi.js"},
+    //{"key":"csp_XBiubiubiubiu_橘子tv","name":"🍊橘子tv","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/juzi.js"},
     {
       "key": "csp_biubiu_秋千",
       "name": "🥒秋千影视(XB)",
@@ -983,8 +985,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/秋千影视.json",
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/xbfzy.jar"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/秋千影视.json",
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/xbfzy.jar"
     },
     {
       "key": "csp_XBiubiubiubiu_夜空影视",
@@ -994,7 +996,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/夜空.json"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/夜空.json"
     },
     {
       "key": "csp_XBiubiubiubiu_iibb影视",
@@ -1004,9 +1006,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/iibb.json"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/iibb.json"
     },
-    //{"key":"csp_XBiubiubiubiu_98bb","name":"98bb","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/98bb.txt"},
+    //{"key":"csp_XBiubiubiubiu_98bb","name":"98bb","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/98bb.txt"},
     {
       "key": "csp_XBiubiubiubiu_87dy",
       "name": "87dy(B)",
@@ -1015,7 +1017,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/87电影.json"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/87电影.json"
     },
     {
       "key": "csp_XBiubiubiubiu_zxzj",
@@ -1025,7 +1027,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/在线之家.json"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/在线之家.json"
     },
     {
       "key": "csp_XBiubiubiubiu_ysgc",
@@ -1035,8 +1037,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/b03-ysgc.js",
-      "jar": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jar/custom_spider.jar"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/b03-ysgc.js",
+      "jar": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jar/custom_spider.jar"
     },
     {
       "key": "csp_XBiubiubiubiu_city",
@@ -1046,7 +1048,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/city.js"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/city.js"
     },
     {
       "key": "csp_XBiubiubiubiu_黑洞",
@@ -1056,7 +1058,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/黑洞.txt"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/黑洞.txt"
     },
     {
       "key": "csp_XBiubiubiubiu_真卡",
@@ -1066,7 +1068,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/真卡.txt"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/真卡.txt"
     },
     {
       "key": "csp_biubiu_1080Kkk",
@@ -1076,7 +1078,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/1080kk.txt"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/1080kk.txt"
     },
     {
       "key": "csp_XBiubiubiubiu_jpys",
@@ -1086,7 +1088,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/极品影视.txt"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/极品影视.txt"
     },
     {
       "key": "csp_XBiubiubiubiu_csiren",
@@ -1096,7 +1098,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/私人.json"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/私人.json"
     },
     {
       "key": "csp_XBiubiubiubiu_voflix",
@@ -1106,7 +1108,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/vofix.json"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/vofix.json"
     },
     {
       "key": "csp_XBiubiubiubiu_手机看剧",
@@ -1116,7 +1118,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/b06-sjkj.js"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/b06-sjkj.js"
     },
     {
       "key": "csp_XBiubiubiubiu_口袋影院",
@@ -1126,7 +1128,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/b07-kdys.js"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/b07-kdys.js"
     },
     {
       "key": "csp_biubiu_特狗影视",
@@ -1136,7 +1138,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/a10-tgys.js"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/a10-tgys.js"
     },
     {
       "key": "csp_biubiu_瓜皮TV",
@@ -1146,7 +1148,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/a11-gptv.js"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/a11-gptv.js"
     },
     {
       "key": "csp_biubiu_真的卡影院",
@@ -1156,7 +1158,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/a12-zk.js"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/a12-zk.js"
     },
     {
       "key": "csp_biubiu_大米星球",
@@ -1166,7 +1168,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/a13-dmxq.js"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/a13-dmxq.js"
     },
     {
       "key": "csp_biubiu_晗剧",
@@ -1176,7 +1178,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/a14-hanju.js"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/a14-hanju.js"
     },
     {
       "key": "csp_biubiu_看片狂人",
@@ -1186,7 +1188,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/a15-kpkr.js"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/a15-kpkr.js"
     },
     {
       "key": "csp_XBiubiubiubiu_4kan电影网",
@@ -1196,7 +1198,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/b11-4Kkan.js"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/b11-4Kkan.js"
     },
     {
       "key": "csp_XPath_猫群首发",
@@ -1206,7 +1208,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/519-bidi.json"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/519-bidi.json"
     },
     {
       "key": "csp_xpath_网络搜集库29",
@@ -1216,7 +1218,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/519-dadagui.json"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/519-dadagui.json"
     },
     {
       "key": "csp_XPathMacFilter_网络搜集源02",
@@ -1226,7 +1228,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/jp"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/jp"
     },
     {
       "key": "csp_xpath_网络搜集库naikan",
@@ -1236,7 +1238,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/516-naikan.js"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/516-naikan.js"
     },
     {
       "key": "csp_appysv2_爱酷影视",
@@ -1256,7 +1258,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/604-huohuo.js"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/604-huohuo.js"
     },
     {
       "key": "csp_xpath_网络搜集库kankan",
@@ -1266,7 +1268,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/516-wmkankan.js"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/516-wmkankan.js"
     },
     {
       "key": "csp_AppYsV2_美剧范",
@@ -1286,7 +1288,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/505-heidong.js"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/505-heidong.js"
     },
     {
       "key": "csp_xpath_网络搜集源A13",
@@ -1296,7 +1298,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/6dutv.js"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/6dutv.js"
     },
     {
       "key": "csp_xpath_网络搜集库108",
@@ -1306,7 +1308,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/519-xiaoxiong.json"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/519-xiaoxiong.json"
     },
     {
       "key": "csp_xpath_网络搜集库62",
@@ -1316,7 +1318,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/519-dili.json"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/519-dili.json"
     },
     {
       "key": "csp_xpath_网络搜集库80",
@@ -1326,7 +1328,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/519-tuzi.json"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/519-tuzi.json"
     },
     {
       "key": "csp_xpath_网络搜集库03",
@@ -1336,7 +1338,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/519-yingba.json"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/519-yingba.json"
     },
     {
       "key": "csp_XPathMacFilter_网络搜集源01-js",
@@ -1346,7 +1348,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/519-vod.json"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/519-vod.json"
     },
     {
       "key": "csp_xpath_网络搜集库72",
@@ -1356,7 +1358,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/519-dingzidy.json"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/519-dingzidy.json"
     },
     {
       "key": "csp_xpath_网络搜集源21",
@@ -1366,7 +1368,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/605-yhdm.js"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/605-yhdm.js"
     },
     {
       "key": "csp_xpath_A32",
@@ -1376,7 +1378,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/604-dmd.js"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/604-dmd.js"
     },
     {
       "key": "csp_xpath_网络搜集源22",
@@ -1386,7 +1388,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/604-dm84.js"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/604-dm84.js"
     },
     {
       "key": "csp_xpath_网络搜集源23",
@@ -1396,7 +1398,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/604-age.js"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/604-age.js"
     },
     {
       "key": "csp_biubiu_风车动漫",
@@ -1406,7 +1408,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/d05-fcdm.js"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/d05-fcdm.js"
     },
     {
       "key": "csp_biubiu_森屋新番",
@@ -1416,7 +1418,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/d02-swxf.js"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/d02-swxf.js"
     },
     {
       "key": "csp_biubiu_维奇动漫",
@@ -1426,7 +1428,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/d03-wqdm.js"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/d03-wqdm.js"
     },
     {
       "key": "*芒果资源",
@@ -1854,7 +1856,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/黑洞.txt"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/黑洞.txt"
     },
     {
       "key": "csp_biubiu_北川影视",
@@ -2164,7 +2166,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/七年影视.txt"
+      "ext": "https://curlyanimatedplan.wokaotianshi123.repl.co/tvmovie/tvbox/七年影视.txt"
     },
     {
       "key": "csp_biubiu_大象TV",
@@ -6655,41 +6657,25 @@
       "type": 2,
       "url": "Sequence"
     },
-    {
-      "name": "解析04",
-      "type": 1,
-      "url": "https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="
-    },
+    //{"name": "解析04","type": 1,"url": "https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="},
     {
       "name": "解析05",
       "type": 0,
-      "url": "https://www.nxflv.com/?url="
+      "url":"https://curlyanimatedplan.wokaotianshi123.repl.co/jx.html?url="
     },
     {
       "name": "解析06",
       "type": 0,
       "url": "https://jx.bozrc.com:4433/player/?url="
     },
-    {
-      "name": "解析07",
-      "type": 1,
-      "url": "https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid="
-    },
-    {
-      "name": "解析08",
-      "type": 1,
-      "url": "https://jisu.rongxingvr.top/api/?key=rCMmoKD0H0ShJ00u2f&url="
-    },
+   // {"name": "解析07","type": 1,"url": "https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid="},
+    //{"name": "解析08","type": 1,"url": "https://jisu.rongxingvr.top/api/?key=rCMmoKD0H0ShJ00u2f&url="},
     {
       "name": "解析09",
       "type": 0,
-      "url": "https://jx.zui.cm/?url="
+      "url": "https://www.nxflv.com/?url="
     },
-    {
-      "name": "解析11",
-      "type": 0,
-      "url": "https://jx.beiyan.cc:4433/?url="
-    },
+    //{"name": "解析11","type": 0,"url": "https://jx.beiyan.cc:4433/?url="},
     {
       "name": "解析10",
       "type": 0,
